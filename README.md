@@ -21,3 +21,6 @@ https://drive.google.com/drive/folders/10y6tBPchddZ0BwDOMaXoQwhx76C4Wun5
 -How did team performance vary across different IPL seasons?
 
 -Which venues hosted the highest number of IPL matches?
+
+- Dashboard Interaction <a href="https://github.com/Pasupureddy-Mamatha/IPL-Analysis-Dashboard-2008-2025-using-Power-BI/blob/main/dashboard.png">View Dashboard</a>
+
