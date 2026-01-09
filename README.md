@@ -1,2 +1,4 @@
 # IPL-Analysis-Dashboard-2008-2025-using-Power-BI
-This project analyzes IPL data from 2008 to 2025 to understand team performance, player achievements, and season trends. An interactive Power BI dashboard shows champions, runners-up, points table, cap winners, and key stats. Users can select a season to view complete summaries.
+## Project Objective
+This project focuses on analyzing Indian Premier League (IPL) data from 2008 to 2025 to understand team performance, player achievements, season trends, and match outcomes. An interactive Power BI dashboard was developed to visualize key insights such as champions, runner-ups, points table, orange cap and purple cap statistics, total matches, sixes, fours, venues, and centuries for each season. The dashboard allows users to select a season and instantly view complete performance summaries in one place.
+
