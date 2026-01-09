@@ -50,3 +50,6 @@ Used cards, tables, and images, Applied consistent colors and themes, Focused on
 
 Validated calculations, Improved layout for better user experience
 
+## Dashboard
+<img width="1294" height="717" alt="dashboard" src="https://github.com/user-attachments/assets/8054787b-3846-43d0-a324-81fc3b844144" />
+
