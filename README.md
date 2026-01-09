@@ -69,5 +69,4 @@ Project Insights
 - Teams with balanced batting and bowling units perform better overall
 
 ## Final Conclusion
-This project helped transform complex IPL data into a single, interactive dashboard that provides complete tournament insights in seconds. It demonstrates how data analytics and visualization can simplify decision-making and storytelling in sports analytics.
-
+This project helped transform large and complex IPL datasets into a single, interactive Power BI dashboard that delivers complete tournament insights within seconds. By organizing and visualizing data effectively, the dashboard enables users to quickly understand team performance, player achievements, and season-wise trends. It also demonstrates how data analytics and data visualization can simplify decision-making, improve clarity, and support effective storytelling in the field of sports analytics.
