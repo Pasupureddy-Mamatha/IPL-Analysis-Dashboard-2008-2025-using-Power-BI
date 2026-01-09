@@ -25,3 +25,46 @@ https://drive.google.com/drive/folders/10y6tBPchddZ0BwDOMaXoQwhx76C4Wun5
 ## Dashboard Interaction 
 <a href="https://github.com/Pasupureddy-Mamatha/IPL-Analysis-Dashboard-2008-2025-using-Power-BI/blob/main/dashboard.png">View Dashboard</a>
 
+## Process
+-Data Collection
+
+Collected IPL datasets covering 2008–2025 seasons
+
+-Data Cleaning
+
+Removed duplicates
+
+Handled missing values
+
+Standardized team and player names
+
+-Data Transformation
+
+Created calculated columns and measures using DAX
+
+Aggregated season-wise and team-wise statistics
+
+-Dashboard Design
+
+Designed structured KPI cards (matches, teams, sixes, fours, venues)
+
+Created season slicer for dynamic filtering
+
+Built tables for points standings
+
+Added player highlight cards for caps and records
+
+-Visualization
+
+Used cards, tables, and images
+
+Applied consistent colors and themes
+
+Focused on clarity and readability
+
+-Testing & Optimization
+
+Validated calculations
+
+Improved layout for better user experience
+
