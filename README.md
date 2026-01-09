@@ -26,7 +26,7 @@ https://drive.google.com/drive/folders/10y6tBPchddZ0BwDOMaXoQwhx76C4Wun5
 <a href="https://github.com/Pasupureddy-Mamatha/IPL-Analysis-Dashboard-2008-2025-using-Power-BI/blob/main/dashboard.png">View Dashboard</a>
 
 ## Process to build project
-###-Data Collection
+##-Data Collection
 
 Collected IPL datasets covering 2008–2025 seasons
 
