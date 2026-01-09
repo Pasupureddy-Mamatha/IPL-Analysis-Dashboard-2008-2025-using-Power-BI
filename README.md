@@ -30,23 +30,23 @@ https://drive.google.com/drive/folders/10y6tBPchddZ0BwDOMaXoQwhx76C4Wun5
 
 Collected IPL datasets covering 2008–2025 seasons
 
--Data Cleaning
+- Data Cleaning
 
 Removed duplicates, Handled missing values, Standardized team and player names
 
--Data Transformation
+- Data Transformation
 
 Created calculated columns and measures using DAX, Aggregated season-wise and team-wise statistics
 
--Dashboard Design
+- Dashboard Design
 
 Designed structured KPI cards (matches, teams, sixes, fours, venues), Created season slicer for dynamic filtering, Built tables for points standings, Added player highlight cards for caps and records
 
--Visualization
+- Visualization
 
 Used cards, tables, and images, Applied consistent colors and themes, Focused on clarity and readability
 
--Testing & Optimization
+- Testing & Optimization
 
 Validated calculations, Improved layout for better user experience
 
@@ -56,15 +56,15 @@ Validated calculations, Improved layout for better user experience
 ## Project Insights
 Project Insights
 
--Consistent team performance increases the chances of playoff qualification
+- Consistent team performance increases the chances of playoff qualification
 
--Strong league-stage teams do not always succeed in finals
+- Strong league-stage teams do not always succeed in finals
 
--Certain players show consistent performance across multiple seasons
+- Certain players show consistent performance across multiple seasons
 
--Increase in sixes and fours reflects aggressive batting trends over time
+- Increase in sixes and fours reflects aggressive batting trends over time
 
--Some venues are more favorable for high-scoring matches
+- Some venues are more favorable for high-scoring matches
 
--Teams with balanced batting and bowling units perform better overall
+- Teams with balanced batting and bowling units perform better overall
 
