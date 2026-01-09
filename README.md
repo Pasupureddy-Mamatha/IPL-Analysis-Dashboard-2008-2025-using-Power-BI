@@ -4,29 +4,29 @@ This project focuses on analyzing Indian Premier League (IPL) data from 2008 to 
 ## Dataset Used
 https://drive.google.com/drive/folders/10y6tBPchddZ0BwDOMaXoQwhx76C4Wun5
 ## Question(KPI'S)
--Which teams won the IPL championship in each season?
+- Which teams won the IPL championship in each season?
 
--Which teams finished as runners-up across different seasons?
+- Which teams finished as runners-up across different seasons?
 
--Who were the Orange Cap and Purple Cap winners in each season?
+- Who were the Orange Cap and Purple Cap winners in each season?
 
--Which teams consistently performed best in the points table?
+- Which teams consistently performed best in the points table?
 
--How many matches were played in each IPL season?
+- How many matches were played in each IPL season?
 
--Which players recorded the highest number of sixes and fours?
+- Which players recorded the highest number of sixes and fours?
 
--How many centuries and half-centuries were scored per season?
+- How many centuries and half-centuries were scored per season?
 
--How did team performance vary across different IPL seasons?
+- How did team performance vary across different IPL seasons?
 
--Which venues hosted the highest number of IPL matches?
+- Which venues hosted the highest number of IPL matches?
 
 ## Dashboard Interaction 
 <a href="https://github.com/Pasupureddy-Mamatha/IPL-Analysis-Dashboard-2008-2025-using-Power-BI/blob/main/dashboard.png">View Dashboard</a>
 
 ## Process to build project
--Data Collection
+- Data Collection
 
 Collected IPL datasets covering 2008–2025 seasons
 
