@@ -53,3 +53,18 @@ Validated calculations, Improved layout for better user experience
 ## Dashboard
 <img width="1294" height="717" alt="dashboard" src="https://github.com/user-attachments/assets/8054787b-3846-43d0-a324-81fc3b844144" />
 
+## Project Insights
+Project Insights
+
+-Consistent team performance increases the chances of playoff qualification
+
+-Strong league-stage teams do not always succeed in finals
+
+-Certain players show consistent performance across multiple seasons
+
+-Increase in sixes and fours reflects aggressive batting trends over time
+
+-Some venues are more favorable for high-scoring matches
+
+-Teams with balanced batting and bowling units perform better overall
+
